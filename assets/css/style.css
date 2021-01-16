@@ -291,6 +291,12 @@ figure.effect-layla:hover figcaption::after, figure.effect-layla:hover h2, figur
     .hello-baybe{
         margin-bottom: 30px;
     }
+    .span-kiten:first-child{
+        margin-left: 200px;
+    }
+    .span-kiten:last-child{
+        margin-left: 50px;
+    }
 }
 @media(max-width:1023px){
     .div-text-img{
